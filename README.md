@@ -4,3 +4,21 @@
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://clayver11.github.io/html-css/exercicios/ex001/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex002/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex003/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex004/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex005/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex006/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex007/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex008/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex009/index.html"> Executar o exercício 01.</a>
+
+<a href="https://clayver11.github.io/html-css/exercicios/ex0010/index.html"> Executar o exercício 01.</a>
