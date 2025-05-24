@@ -22,3 +22,6 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href="https://clayver11.github.io/html-css/exercicios/ex009/index.html"> Executar o exercício 09.</a>
 
 <a href="https://clayver11.github.io/html-css/exercicios/ex010/index.html"> Executar o exercício 10.</a>
+
+<a href="https://clayver11.github.io/projeto-cordel/"> Desafio 12
+
